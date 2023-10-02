@@ -1,0 +1,11 @@
+241  #nx   (1/16 grid size) Lx= 15
+481   #ny   (1/16  Ly= 30)
+100    #no of time steps
+0.00005    #time step size dt
+1.0       #phi equivalence ratio 
+10.0      # beta activation energy    
+5.0       # gamma 
+100       # Damkohler number  
+1.6       #Lewis umbe Fuel
+1.6       # Lewis number Oxidiser   
+0.0       ##premixedness parameter
