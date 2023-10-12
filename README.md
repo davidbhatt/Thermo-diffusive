@@ -14,6 +14,7 @@ laminar flames with varying premixedness, Combustion and Flame, 159(6), 2115-212
 In order to run, A list of input paramters are required and is described in inputs2d_info.txt
 Also a sample input file inputs2d.txt is also included.
 to compile use 
+gfortran -o 2d tdcode_2d.f90
 ./compile.sh
 to run use
 ./2d<inputs2d.txt
