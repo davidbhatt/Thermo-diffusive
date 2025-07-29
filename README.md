@@ -1,5 +1,5 @@
 # Thermo-diffusive
-This is code to solve thermo-diffusive combustion equations i.e Cobvectiv-Diffusive-Reactive partial differential equations in two-dimensional written in mordern Fortran 90.
+This is code to solve thermo-diffusive combustion equations i.e Convective-Diffusive-Reactive partial differential equations in two-dimensional written in mordern Fortran 90.
 
 This code solves the unsteady molecular transport and heat trasport equation along with source/sink term from combustion reaction to study the                            
 thermo-diffusive instability in laminar flames with wide range of premixiedness. The chemical kinetics is onse-step overall reaction mechanism is used. The code is nondimensionalized.
